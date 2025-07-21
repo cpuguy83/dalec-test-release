@@ -4,7 +4,7 @@ go 1.20
 
 require (
 	github.com/containerd/containerd v1.7.2
-	github.com/cpuguy83/dockercfg v0.3.1
+	github.com/cpuguy83/dockercfg v0.3.2
 	github.com/cpuguy83/go-docker v0.3.0
 	github.com/cpuguy83/go-docker/buildkitopt v0.1.2
 	github.com/goccy/go-yaml v1.11.3
